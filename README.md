@@ -64,5 +64,5 @@ To compile and run this project in your local terminal environment, follow these
 
 **1. Clone the repository:**
 ```bash
-git clone [https://github.com/rahmanashis01/Capstone_project.git](https://github.com/rahmanashis01/Capstone_project.git)
-cd Capstone_project
+git clone https://github.com/rahmanashis/Capstone-Code.git
+cd Capstone-Code
