@@ -60,9 +60,15 @@ This project aims to provide a robust, unified solution for managing student dat
 
 ## 🚀 Getting Started
 
-To compile and run this project in your local terminal environment, follow these precise steps:
+To compile and run this project in your local terminal environment, copy and paste the following commands:
 
-**1. Clone the repository:**
 ```bash
+# 1. Clone the repository and navigate inside
 git clone https://github.com/rahmanashis/Capstone-Code.git
 cd Capstone-Code
+
+# 2. Compile the source code
+gcc -o main main.c
+
+# 3. Run the executable
+./main
